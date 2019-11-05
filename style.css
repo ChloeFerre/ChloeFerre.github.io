@@ -1,0 +1,19 @@
+h1 {
+    color:black; }
+nav ul {padding: 0;}
+    nav ul li {
+        float: left;
+        list-style-type: none;
+    }
+    nav ul li a {
+        display: block;
+        padding: .5rem 1rem;
+        background-color: teal;
+    }
+    main img { 
+        float: right;
+    }
+    footer {
+        text-align: center;
+        clear: both;
+     }
